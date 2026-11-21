@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "Komorebi",
+    "author": "Aaksaa",
+    "description": "",
+    "version": "1.0.0",
+    "configVersion": 33,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-4f5ac9e4.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-11-21",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpg",
+    "banner": "banner.png"
+}
